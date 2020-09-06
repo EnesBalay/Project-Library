@@ -1,6 +1,6 @@
 # Project-Library
 
-::Programın Özellikleri::
+::Properties Of Program::
 1.Add Book.
 2.Show Book.
 3.Check Book.
